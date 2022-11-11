@@ -1,0 +1,4 @@
+{
+    "docker.certPath": "/snap/bin/docker",
+    "php.validate.executablePath": "/usr/bin/php"
+}

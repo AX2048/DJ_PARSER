@@ -1,0 +1,12 @@
+Host ponomag1.beget.tech
+    HostName ponomag1.beget.tech
+    User ponomag1
+    Port 22
+    ForwardAgent yes
+ 
+Host localhost
+    HostName localhost
+    User ponomag1
+    Port 222
+    IdentityFile ~/.ssh/id_rsa
+    ProxyCommand ssh -W %h:%p ponomag1@ponomag1.beget.tech

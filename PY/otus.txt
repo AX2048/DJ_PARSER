@@ -1,0 +1,42 @@
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 15:05:41.177870 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 15:14:56.638572 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 15:15:03.003890 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 15:15:07.362381 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 16:24:33.980502 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 16:25:44.170525 
+
+sys.v :: 3.10.4 (main, Jun 29 2022, 12:14:53) [GCC 11.2.0]
+platform.v :: 3.10.4
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-09-07 16:28:30.188805 
+

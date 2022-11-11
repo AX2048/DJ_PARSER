@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"phpserver.phpPath": "/usr/bin/php"
+		
+
+	}
+}
