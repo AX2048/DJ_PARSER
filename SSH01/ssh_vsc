@@ -10,3 +10,10 @@ Host localhost
     Port 222
     IdentityFile ~/.ssh/id_rsa
     ProxyCommand ssh -W %h:%p ponomag1@ponomag1.beget.tech
+
+Host VPS
+    HostName 62.113.97.245
+    User root
+    Port 22
+    IdentityFile ~/.ssh/id_rsa
+    ProxyCommand ssh -W %h:%p root@62.113.97.245

@@ -40,3 +40,1291 @@ cwd :: /home/alex/Documents/CODE
 Executable :: /usr/bin, /usr/bin/python3
 DT :: 2022-09-07 16:28:30.188805 
 
+sys.v :: 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-10-30 14:59:19.582146 
+
+sys.v :: 3.10.6 (main, Aug 10 2022, 11:40:04) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-10-30 15:05:30.177298 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:17:38.257253 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:17:43.392057 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:21:08.123337 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:22:47.784446 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:23:50.805452 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:23:55.891038 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:24:04.413730 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:24:12.567791 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:24:30.069130 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:24:52.667784 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:25:03.647130 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:25:13.823390 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:28:40.188311 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:29:04.249452 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:29:21.024371 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:30:05.588297 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:30:38.215192 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:31:02.855874 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:31:07.378887 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:31:49.788779 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:31:58.712790 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:35:06.753119 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:35:39.979043 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:35:58.723150 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:35:59.264648 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:36:03.844374 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:37:23.539983 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:37:24.155469 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:37:24.680872 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:10.779082 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:38.497064 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:39.623182 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:40.355823 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:51.772276 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:42:52.413837 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:43:09.728855 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:33.585577 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:34.745876 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:35.395314 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:36.023964 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:36.642086 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:37.233628 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:37.825446 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:38.324811 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:38.831531 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:39.322208 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:39.810191 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:40.274167 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:40.778540 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:41.282995 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:41.770001 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:42.237046 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:42.692674 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:43.151778 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:43.959581 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:44.434554 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:44.883769 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:50:45.337934 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:51:54.692511 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:24.962664 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:29.147233 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:29.965514 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:30.032153 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:30.436137 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:31.041740 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:52:49.226989 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:04.245182 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:42.287825 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:43.625464 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:44.254043 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:44.757582 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:45.300600 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:45.892187 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:46.558899 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:47.093976 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:47.871746 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:48.614620 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:49.251816 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:49.837658 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:50.423856 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:53:51.128572 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:55:51.678582 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:09.271529 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:11.249318 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:13.123777 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:13.892653 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:14.492634 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:15.104858 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:15.667729 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:16.202224 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:16.783796 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:17.370012 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:17.935995 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:18.540517 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:19.120877 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:19.775421 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:20.393651 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:20.961400 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:21.554608 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:22.102907 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:22.651359 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:23.288864 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:23.864548 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:24.487730 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:25.713488 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:26.219667 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:27.435542 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:28.121803 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:28.760384 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:29.463041 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:30.207649 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:33.165196 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:34.376783 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:35.607650 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:42.563268 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:43.520233 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:44.401295 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:45.350266 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:55.062394 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:55.775040 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:56.396321 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:57.068105 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:57.629879 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:58.181256 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:58.723996 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:57:59.348407 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:00.002257 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:00.559887 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:01.165871 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:02.866841 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:04.271091 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:17.221228 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:21.511762 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:22.246264 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:22.878607 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:23.429528 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:24.010198 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:24.653046 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:25.393134 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:25.978533 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:26.584257 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:28.510620 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:29.135159 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:29.767777 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:30.411920 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:30.959854 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:31.496926 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:31.998807 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:32.641128 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:33.632079 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:35.301732 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:35.912332 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:58:36.842112 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:15.415550 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:16.392563 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:16.875011 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:17.261524 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:17.445553 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:17.628914 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:17.796984 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:17.977687 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.116430 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.299075 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.452792 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.620643 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.777986 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:18.950371 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.128663 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.304914 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.479021 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.652407 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.799663 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:19.963534 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:20.095634 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:20.247338 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:56.893377 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:57.731439 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:58.171442 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:58.544232 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:58.959865 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 01:59:59.541023 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:06:23.744985 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:08:13.622722 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:08:37.489990 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:08:59.782232 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:09:09.817999 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:11:22.300226 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:12:13.126255 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:12:47.990323 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:13:37.943681 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:13:52.506158 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:14:41.999209 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:15:02.774312 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:03.652508 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:07.262845 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:08.110893 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:08.819793 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:09.471322 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:10.199290 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:10.957628 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:12.369457 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:18.368871 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:19.094310 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:40.228045 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:16:52.595583 
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:28.592493
+ YO :: 20221104_02-19-28_592583_000India
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:40.164510
+YO :: 20221104_02-19-40_164625_000Oscar
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:40.496833
+YO :: 20221104_02-19-40_496952_000Oscar
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:54.259606
+YO :: 20221104_02-19-54_259681_000Tango
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:58.416744
+YO :: 20221104_02-19-58_416878_000Oscar
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:19:58.574601
+YO :: 20221104_02-19-58_574686_0000Kilo
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-04 02:23:36.985411
+YO :: 20221104_02-23-36_985535_0000Xray
+
