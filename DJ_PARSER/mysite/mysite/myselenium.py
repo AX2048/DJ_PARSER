@@ -3,6 +3,7 @@
 # pip install pandas
 # pip install bs4
 # CloudFlare https://www.vindecoderz.com/
+# E
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
