@@ -110,15 +110,23 @@ class Parser(object):
             # print(element.text)
             # time.sleep(0.2)
             # elements = WebDriverWait(driver, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//*[@class='news-item-link']")))
-            a_elements =  driver.find_elements(By.CLASS_NAME, "news__list__item__link__text")
+            a_text_els =  driver.find_elements(By.CLASS_NAME, "news__list__item__link__text")
+            a_href_els =  driver.find_elements(By.CLASS_NAME, "news__list__item__link")
+
+            #a_elements =  driver.find_element_by_xpath("//span[@class=\"news__list__item__link\"]") #news__list__item__link news__list__item__link_simple
             # elems = driver.find_elements(By., "//*[@class='news__list__item__link__text']")
-            for elem in a_elements:
-                print("----a-------",len(a_elements))
-                print(elem.text)
-                if not elem.text:
+            data = dict()
+            for text, href in zip(a_text_els,a_href_els):
+                print("----a-------",len(a_text_els),len(a_href_els))
+                print(text.text)
+                if not text.text:
+                    print('text out')
                     break
-                print(elem.get_attribute("class"))
-                print(elem.get_attribute("href"))
+                print(href.get_attribute('href'))
+                data.update({'href':href.get_attribute('href')})
+                data.update({'text':text.text})
+                yield data
+
 
 
             # self.seleniumHtml = ' '.join(a_elements)

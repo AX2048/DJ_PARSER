@@ -4,7 +4,7 @@ from django.template import loader
 from mysite.parser import Parser
 
 def index(request):
-    '''
+
     p = Parser()
     p.setUrl("https://habr.com/ru/all/")
     p.setSession()
@@ -21,7 +21,7 @@ def index(request):
             }
             )
 
-    '''
+
     latest_question_list = []#['habr', 'mail.ru','yandex']# paser.get()
 
     m = Parser()
@@ -35,10 +35,10 @@ def index(request):
     # m.parseSeleniumUrl()
     for a in m.runSelenium():
     # if len(a)>10:
-        print(a.text, m.url+a['href'])
+        print(a['text'], a['href'])
         mail_response_list.append(
-            {   "text": a.text,
-                "url":m.url+a['href']
+            {   "text": a['text'],
+                "url":a['href']
             }
         )
 
@@ -52,6 +52,6 @@ def index(request):
     template = loader.get_template('index.html')
     context = {
         'latest_question_list': latest_question_list,
-        'mail.ru_response': mail_response_list,
+        'mail_response_list': mail_response_list,
     }
     return HttpResponse(template.render(context, request))
