@@ -5,7 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Django",
+            "name": "Django_debug",
             "type": "python",
             "request": "launch",
             "program": "${workspaceFolder}/DJ_PARSER/mysite/manage.py",
@@ -22,9 +22,22 @@
             ],
             "django": true,
             "justMyCode": false,
-
-            //"open-in-browser.default": "chrome", // Chrome values: chrome, google chrome, google-chrome, gc Firefox values: firefox, mozilla firefox, ff IE values: ie, iexplore Safari values: safari Opera values: opera Chromium values: chromium Firefox Developer Edition values: firefox developer, fde, firefox developer edition Edge values: edge, msedge, microsoftedge
-
+        },
+        {
+            "name": "Chrome_127.0.0.1",
+            "type": "chrome",
+            "request": "launch",
+            "timeout": "10000",
+            "url": "http://127.0.0.1:8000/",
+            //"webRoot": "${workspaceFolder}"
+        },
+    ],
+    "compounds": [
+        {
+        "name": "DJ + CH",
+        "configurations": ["Django_debug", "Chrome_127.0.0.1"],
+        //"preLaunchTask": "${defaultBuildTask}",
+        "stopAll": true
         }
     ]
 }
