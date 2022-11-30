@@ -23,6 +23,8 @@
             "django": true,
             "justMyCode": false,
 
+            //"open-in-browser.default": "chrome", // Chrome values: chrome, google chrome, google-chrome, gc Firefox values: firefox, mozilla firefox, ff IE values: ie, iexplore Safari values: safari Opera values: opera Chromium values: chromium Firefox Developer Edition values: firefox developer, fde, firefox developer edition Edge values: edge, msedge, microsoftedge
+
         }
     ]
 }
