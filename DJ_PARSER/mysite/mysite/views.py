@@ -38,7 +38,7 @@ def index(request):
         print(a['text'], a['href'])
         mail_response_list.append(
             {   "text": a['text'],
-                "url":a['href']
+                "href":a['href']
             }
         )
 

@@ -118,15 +118,14 @@ class Parser(object):
             data = dict()
             for text, href in zip(a_text_els,a_href_els):
                 print("----a-------",len(a_text_els),len(a_href_els))
-                print(text.text)
+                print(f'text :: {text.text}')
+                print(f"hreh ::     {href.get_attribute('href')}")
                 if not text.text:
                     print('text out')
                     break
-                print(href.get_attribute('href'))
                 data.update({'href':href.get_attribute('href')})
                 data.update({'text':text.text})
                 yield data
-
 
 
             # self.seleniumHtml = ' '.join(a_elements)
