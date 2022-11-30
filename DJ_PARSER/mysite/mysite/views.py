@@ -22,7 +22,7 @@ def index(request):
             )
 
 
-    latest_question_list = []#['habr', 'mail.ru','yandex']# paser.get()
+    #latest_question_list = []#['habr', 'mail.ru','yandex']# paser.get()
 
     m = Parser()
     m.setUrl("https://mail.ru/")
