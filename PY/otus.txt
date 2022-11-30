@@ -1328,3 +1328,38 @@ Executable :: /usr/bin, /usr/bin/python3
 DT :: 2022-11-04 02:23:36.985411
 YO :: 20221104_02-23-36_985535_0000Xray
 
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /home/alex/Documents/CODE/DJ_PARSER/venv_parser/bin, /home/alex/Documents/CODE/DJ_PARSER/venv_parser/bin/python3
+DT :: 2022-11-13 00:02:11.587003
+YO :: 20221113_00-02-11_587079_000Oscar
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-13 00:02:53.626383
+YO :: 20221113_00-02-53_626502_0Uniform
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-13 00:04:04.656066
+YO :: 20221113_00-04-04_656131_000India
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-13 00:06:50.122836
+YO :: 20221113_00-06-50_122935_00Victor
+
+sys.v :: 3.10.6 (main, Nov  2 2022, 18:53:38) [GCC 11.3.0]
+platform.v :: 3.10.6
+cwd :: /home/alex/Documents/CODE
+Executable :: /usr/bin, /usr/bin/python3
+DT :: 2022-11-16 22:14:26.618571
+YO :: 20221116_22-14-26_618644_0Uniform
+

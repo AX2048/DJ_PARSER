@@ -4,6 +4,12 @@
         <li><a href="{{question.url}}">{{ question.text }}</a></li>
     {% endfor %}
     </ul>
+{% elif mail.ru_response %}
+    <ul>
+    {% for question in mail.ru_response %}
+        <li><a href="{{question.url}}">{{ question.text }}</a></li>
+    {% endfor %}
+    </ul>
 {% else %}
     <p>No parsed sites more are available.</p>
 {% endif %}
