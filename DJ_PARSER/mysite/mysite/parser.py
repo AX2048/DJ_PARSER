@@ -12,7 +12,7 @@ class Parser(object):
         print(self.fakeHeader)
 
         self.session.headers.update(self.fakeHeader)
-        
+
     def setUrl(self,url):
         if not isinstance(url,str) and (url < 10):
             return None
@@ -50,7 +50,7 @@ class Parser(object):
             for a in atag:
                 yield a
             pass #  {"class": "tm-article-snippet__title-link"}
-        
+
     def initSelenium(self):
         from selenium import webdriver
         from selenium.webdriver.common.by import By
@@ -77,7 +77,7 @@ class Parser(object):
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.support.wait import WebDriverWait
         from selenium.webdriver.common.by import By
-        
+
         import time
 
         ua = UserAgent()
@@ -102,7 +102,7 @@ class Parser(object):
             driver.get(url)
             #driver.get("https://www.vindecoderz.com/")
             #driver.get(url)
-            
+
             # return html
 
             # wait = WebDriverWait(driver, 0)
@@ -119,8 +119,8 @@ class Parser(object):
                     break
                 print(elem.get_attribute("class"))
                 print(elem.get_attribute("href"))
-                
-                
+
+
             # self.seleniumHtml = ' '.join(a_elements)
             # print(a_elements)
             # print(fua)

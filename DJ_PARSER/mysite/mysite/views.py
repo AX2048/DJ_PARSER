@@ -20,17 +20,18 @@ def index(request):
                 "url":"https://habr.com"+a['href']
             }
             )
-       
+
     '''
-     
+    latest_question_list = []#['habr', 'mail.ru','yandex']# paser.get()
+
     m = Parser()
     m.setUrl("https://mail.ru/")
     m.setSession()
     m.doRequest()
     m.parseUrl()
     mail_response_list =[]
-    
-    m.runSelenium()
+
+    #m.runSelenium()
     # m.parseSeleniumUrl()
     for a in m.runSelenium():
     # if len(a)>10:
@@ -40,7 +41,7 @@ def index(request):
                 "url":m.url+a['href']
             }
         )
-    
+
     # for a in m.initSelenium():
     #     # if len(a)>10:
     #     mail_response_list.append(
@@ -48,7 +49,7 @@ def index(request):
     #             "url":"https://mail.ru"+a['href']
     #         }
     #     )
-    # template = loader.get_template('index.html')
+    template = loader.get_template('index.html')
     context = {
         'latest_question_list': latest_question_list,
         'mail.ru_response': mail_response_list,
