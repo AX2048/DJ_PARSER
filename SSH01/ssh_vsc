@@ -3,7 +3,7 @@ Host ponomag1.beget.tech
     User ponomag1
     Port 22
     ForwardAgent yes
- 
+
 Host localhost
     HostName localhost
     User ponomag1
@@ -11,9 +11,16 @@ Host localhost
     IdentityFile ~/.ssh/id_rsa
     ProxyCommand ssh -W %h:%p ponomag1@ponomag1.beget.tech
 
-Host VPS
+Host VPS_R
     HostName 62.113.97.245
     User root
     Port 22
     IdentityFile ~/.ssh/id_rsa
     ProxyCommand ssh -W %h:%p root@62.113.97.245
+
+Host VPS_P
+    HostName 62.113.97.245
+    User root
+    Port 22
+    IdentityFile ~/.ssh/id_rsa
+    ProxyCommand ssh -W %h:%p ponomero@62.113.97.245

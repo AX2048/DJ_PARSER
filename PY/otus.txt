@@ -1363,3 +1363,10 @@ Executable :: /usr/bin, /usr/bin/python3
 DT :: 2022-11-16 22:14:26.618571
 YO :: 20221116_22-14-26_618644_0Uniform
 
+sys.v :: 3.11.1 (main, Dec 27 2022, 20:49:51) [GCC 11.3.0]
+platform.v :: 3.11.1
+cwd :: /home/alex/Documents/CODE/PY
+Executable :: /usr/local/bin, /usr/local/bin/python3
+DT :: 2023-01-02 23:43:49.496276
+YO :: 20230102_23-43-49_496343_0000Zulu
+

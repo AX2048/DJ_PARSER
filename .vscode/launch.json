@@ -27,7 +27,7 @@
             "name": "Chrome_127.0.0.1",
             "type": "chrome",
             "request": "launch",
-            "timeout": "10000",
+            //"timeout": "10000",
             "url": "http://127.0.0.1:8000/",
             //"webRoot": "${workspaceFolder}"
         },

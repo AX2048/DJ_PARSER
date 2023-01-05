@@ -5,8 +5,8 @@ from fake_useragent import UserAgent
 class Parser(object):
     def setSession(self):
         self.session = requests.session()
-        # instance of fake user agent
-        ua = UserAgent()
+        # instance of fake user ag
+        ua = UserAgent(verify_ssl=False)
         print(ua.chrome)
         # create header var in self oto store new fake useragent
         self.fakeHeader = {"User-Agent": str(ua.chrome)}
