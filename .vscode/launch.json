@@ -8,7 +8,7 @@
             "name": "Django_debug",
             "type": "python",
             "request": "launch",
-            "program": "${workspaceFolder}/DJ_PARSER/mysite/manage.py",
+            "program": "${workspaceFolder}/mysite/manage.py",
             "args": [
                 "runserver",
                 "--no-color",
