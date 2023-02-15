@@ -25,6 +25,7 @@
         },
         {
             "name": "Chrome_127.0.0.1",
+            "runtimeExecutable": "custom",
             "type": "chrome",
             "request": "launch",
             //"timeout": "10000",

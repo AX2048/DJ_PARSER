@@ -97,7 +97,9 @@ class Parser(object):
         options.add_argument("--disable-gpu")
         options.add_argument("--window-size=1920x1080")
 
-        s = Service(executable_path="/path/chromedriver")  # executable_path = './chromedriver'
+        s = Service(
+            executable_path="chromedriver_linux64_109.0.5414.74/chromedriver"
+        )  # executable_path = './chromedriver'
 
         driver = webdriver.Chrome(service=s, options=options)  # Собираем драйвер
 
