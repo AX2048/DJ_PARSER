@@ -54,10 +54,13 @@ class Parser(object):
             pass  #  {"class": "tm-article-snippet__title-link"}
 
     def initSelenium(self):
+        import chromedriver_autoinstaller
         from selenium import webdriver
         from selenium.webdriver.common.by import By
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.support.ui import WebDriverWait
+
+        chromedriver_autoinstaller.install()
 
         self.browser = webdriver.Firefox()
         self.browser.get(self.url)
@@ -82,6 +85,10 @@ class Parser(object):
         from selenium.webdriver.common.by import By
         from selenium.webdriver.support import expected_conditions as EC
         from selenium.webdriver.support.wait import WebDriverWait
+        from webdriver_manager.chrome import ChromeDriverManager
+
+        chrome_path = "chrome_drv/chromedriver"  # ChromeDriverManager().install() # chrome_drv/chromedriver
+        print(chrome_path)
 
         ua = UserAgent()
         fua = ua.Chrome
@@ -95,11 +102,12 @@ class Parser(object):
         options.add_argument("--disable-blink-features=AutomationControlled")
         options.add_argument("--headless")
         options.add_argument("--disable-gpu")
-        options.add_argument("--window-size=1920x1080")
+        options.add_argument("--no-sandbox")
+        options.add_argument("--log-level=3")
 
         s = Service(
-            executable_path="chromedriver_linux64_109.0.5414.74/chromedriver"
-        )  # executable_path = './chromedriver'
+            executable_path=chrome_path
+        )  # executable_path = chromedriver_autoinstaller.install() /code/chrome_drv/chromedriver
 
         driver = webdriver.Chrome(service=s, options=options)  # Собираем драйвер
 

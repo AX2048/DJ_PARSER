@@ -21,17 +21,30 @@
                 "DjangoDebugging"
             ],
             "django": true,
-            "justMyCode": false,
+            "justMyCode": false
         },
         {
             "name": "Chrome_127.0.0.1",
             "runtimeExecutable": "custom",
             "type": "chrome",
             "request": "launch",
-            //"timeout": "10000",
-            "url": "http://127.0.0.1:8000/",
-            //"webRoot": "${workspaceFolder}"
+            "url": "http://127.0.0.1:8000/"
         },
+        {
+            "name": "Docker: Python - Django",
+            "type": "docker",
+            "request": "launch",
+            "preLaunchTask": "docker-run: debug",
+            "python": {
+                "pathMappings": [
+                    {
+                        "localRoot": "${workspaceFolder}",
+                        "remoteRoot": "/app"
+                    }
+                ],
+                "projectType": "django"
+            }
+        }
     ],
     "compounds": [
         {
