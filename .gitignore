@@ -22,26 +22,8 @@
 # на всех уровнях вложенности
 #doc/**/*.txt
 
-/Backups/
-/blob_storage/
-/Cache/
-/CachedData/
-/CachedExtensions/
-/Code Cache/
-/databases/
-/GPUCache/
-/Local Storage/
-/logs/
-/Service Worker/
-/Session Storage/
-/SSH01/
-/WebStorage/
 /chromedriver_linux64_109.0.5414.74/
 /_DRAFTS/
+/venv_parser/
 
-languagepacks.json
-machineid
-Network Persistent State
-Preferences
-TransportSecurity
 geckodriver.log
