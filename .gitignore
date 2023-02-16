@@ -36,9 +36,12 @@
 /Session Storage/
 /SSH01/
 /WebStorage/
+/chromedriver_linux64_109.0.5414.74/
+/_DRAFTS/
 
 languagepacks.json
 machineid
 Network Persistent State
 Preferences
 TransportSecurity
+geckodriver.log
