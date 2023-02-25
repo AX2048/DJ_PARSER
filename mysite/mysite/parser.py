@@ -64,7 +64,7 @@ class Parser(object):
 
         self.browser = webdriver.Firefox()
         self.browser.get(self.url)
-        self.browser.implicitly_wait(300)
+        self.browser.implicitly_wait(30)
         elements = self.browser.find_elements(By.TAG_NAME, "a")
 
         for e in elements:
@@ -113,7 +113,7 @@ class Parser(object):
 
         try:
             driver.get(url)
-            driver.implicitly_wait(10)
+            driver.implicitly_wait(1)
 
             # elements = WebDriverWait(driver, 20).until(EC.visibility_of_all_elements_located((By.XPATH, "//*[@class='news-item-link']")))
             a_text_els = driver.find_elements(By.CLASS_NAME, "news__list__item__link__text")
