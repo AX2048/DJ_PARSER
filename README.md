@@ -10,7 +10,7 @@ http://py2.ponomarev-aa.ru/
 ## INIT 
 
 ```
-python -m venv venv_parse
+python -m venv venv_parser
 
 .\venv_parser\Scripts\activate
 
