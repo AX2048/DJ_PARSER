@@ -25,7 +25,7 @@
 /chromedriver_linux64_109.0.5414.74/
 /_DRAFTS/
 /venv_parser/
-/__pycache__/
+/mysite/mysite/__pycache__/
 
 geckodriver.log
 

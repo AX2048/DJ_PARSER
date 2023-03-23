@@ -10,10 +10,18 @@ http://py2.ponomarev-aa.ru/
 ## INIT 
 
 ```
-pip install -r requirements.txt
+python -m venv venv_parse
+
+.\venv_parser\Scripts\activate
 
 python -m pip install --upgrade pip
+
+pip install -r requirements.txt
 ```
+
+## RUN 
+
+Запустить проект можно в разделе "Запуск и отладка" -> "Django_debug"
 
 ## Docker
 
