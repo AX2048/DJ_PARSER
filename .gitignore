@@ -22,13 +22,6 @@
 # на всех уровнях вложенности
 #doc/**/*.txt
 
-/chromedriver_linux64_109.0.5414.74/
-/_DRAFTS/
 /.vscode/
 /venv_parser/
 /dj_parser/dj_parser/__pycache__/
-
-
-geckodriver.log
-
-
