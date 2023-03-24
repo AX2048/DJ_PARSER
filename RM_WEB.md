@@ -5,6 +5,10 @@
 
 Либо `python manage.py runserver`
 
+
+admin: `ahab:2255AXAX`
+
+
 ## Подготовка:
 
 ```
@@ -85,3 +89,15 @@ python -m uvicorn dj_parser.asgi:application
 
 python manage.py migrate
 ```
+
+```
+WSGI_APPLICATION = "dj_parser.wsgi.application"
+
+ASGI_APPLICATION = "dj_parser.asgi.application"
+```
+
+---
+
+Models:
+
+ID Title Link

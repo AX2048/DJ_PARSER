@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = "dj_parser.wsgi.application"
+ASGI_APPLICATION = "dj_parser.asgi.application"
 
 
 # Database
