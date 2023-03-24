@@ -3,6 +3,7 @@
 
 **Зпускается файлом `dj_parser\uv_server.py`**
 
+Либо `python manage.py runserver`
 
 ## Подготовка:
 
@@ -58,6 +59,9 @@ urlpatterns = [
     path("", index_page),
 ]
 ```
+
+python manage.py createsuperuser
+
 
 ---
 
