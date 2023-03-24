@@ -25,3 +25,5 @@ print(f"Path :: {Path(__file__).resolve()}")
 print(f"Path :: {Path(__file__).resolve().parent} :: parent")
 print(f"Path :: {Path(__file__).resolve().parent.parent} :: parent parent")
 
+print(os.getenv("LOCAL_MACHINE_DEV"))
+print(os.path.dirname(__file__))
