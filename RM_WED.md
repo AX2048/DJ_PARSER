@@ -16,3 +16,7 @@ pip install -r requirements.txt
 .\manage.py runserver 
 
 python -m uvicorn dj_parser.asgi:application
+
+---
+
+python manage.py migrate
