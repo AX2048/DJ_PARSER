@@ -18,3 +18,10 @@ print(f'| randint :: {r} |')
 print(f'| User @ Host :: {os.getlogin()}@{socket.gethostname()} |')
 
 #print(os.system('ip a'))
+
+from pathlib import Path
+
+print(f"Path :: {Path(__file__).resolve()}")
+print(f"Path :: {Path(__file__).resolve().parent} :: parent")
+print(f"Path :: {Path(__file__).resolve().parent.parent} :: parent parent")
+
