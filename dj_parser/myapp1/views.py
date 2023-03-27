@@ -6,11 +6,14 @@ def index_page(request):
     parsing_result_list = Parsing.objects.all()
     
     print('')
-    print(parsing_result_list)
-    print('')
-    
     for i in parsing_result_list:
         print(f'{i.id} :: {i.title}')
     print('')
     
-    return render(request, "index.html")
+    return render(
+        request, 
+        "index.html", 
+        context={
+            'data':parsing_result_list
+            }
+        )

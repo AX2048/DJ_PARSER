@@ -24,7 +24,7 @@
 
 /.vscode/
 /venv_parser/
-/dj_parser/dj_parser/__pycache__/
+__pycache__/
 /dj_parser/myapp1/__pycache__/
 
 private.md

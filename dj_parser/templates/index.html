@@ -3,10 +3,20 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Hello World</title> 
+    <title>DJ PARSER</title> 
 </head>
 
 <body> 
-    <h1>Hello World 1!!!</h1> 
+    <h1>DJ PARSER</h1> 
+    <br>
+    {% if data %}
+    <ul>
+    {% for d in data %}
+        <li>| ID :: {{d.id}} | <a href="{{d.link}}">{{d.title}}</a> | count :: {{forloop.counter}} |</li>
+    {% endfor %}
+    </ul>
+    {% else %}
+    <p><b style="color:red;">No data</b></p>
+    {% endif %}
 </body>
 </html>
