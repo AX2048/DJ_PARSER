@@ -25,4 +25,6 @@
 /.vscode/
 /venv_parser/
 __pycache__/
-/dj_parser/myapp1/__pycache__/
+#**/__pycache__
+#**/__pycache__/
+#*.pyc
