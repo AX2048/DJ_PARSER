@@ -1,13 +1,10 @@
-# WEB
-
+# DJ_PARSER | WEB
 
 **Зпускается файлом `dj_parser\uv_server.py`**
 
 Либо `python manage.py runserver`
 
-
 admin: `ahab:2255AXAX`
-
 
 ## Подготовка:
 
@@ -64,8 +61,18 @@ urlpatterns = [
 ]
 ```
 
-python manage.py createsuperuser
+`python manage.py createsuperuser`
 
+`models.py`:
+```
+class Parsing(models.Model):
+    title = models.CharField(max_length=63, blank=False)
+    link = models.CharField(max_length=255, blank=False)
+    
+    def __str__(self):
+        return f'T :: {self.title}'
+```
+Далее выводим в `context` во `views.py`
 
 ---
 
